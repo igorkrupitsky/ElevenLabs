@@ -1,0 +1,41 @@
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.Form1.resources
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.Resources.resources
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.vbproj.GenerateResource.cache
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\source\repos\ElevenLabs\bin\Debug\ElevenLabs.exe.config
+C:\Users\80014379\source\repos\ElevenLabs\bin\Debug\ElevenLabs.exe
+C:\Users\80014379\source\repos\ElevenLabs\bin\Debug\ElevenLabs.pdb
+C:\Users\80014379\source\repos\ElevenLabs\bin\Debug\ElevenLabs.xml
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.exe
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.xml
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.pdb
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.frmChangeVolume.resources
+C:\Users\80014379\source\repos\ElevenLabs\obj\Debug\ElevenLabs.frmYouTube.resources
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\bin\Debug\ElevenLabs.exe.config
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\bin\Debug\ElevenLabs.exe
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\bin\Debug\ElevenLabs.pdb
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\bin\Debug\ElevenLabs.xml
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.vbproj.AssemblyReference.cache
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.frmChangeVolume.resources
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.Form1.resources
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.frmYouTube.resources
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.Resources.resources
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.vbproj.GenerateResource.cache
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.vbproj.CoreCompileInputs.cache
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.exe
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.xml
+C:\Users\80014379\Desktop\CodeProject\Audio Book Creator\ElevenLabs\obj\Debug\ElevenLabs.pdb
+C:\Igor\GitHub\ElevenLabs\bin\Debug\ElevenLabs.exe.config
+C:\Igor\GitHub\ElevenLabs\bin\Debug\ElevenLabs.exe
+C:\Igor\GitHub\ElevenLabs\bin\Debug\ElevenLabs.pdb
+C:\Igor\GitHub\ElevenLabs\bin\Debug\ElevenLabs.xml
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.vbproj.AssemblyReference.cache
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.frmChangeVolume.resources
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.Form1.resources
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.frmYouTube.resources
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.Resources.resources
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.vbproj.GenerateResource.cache
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.vbproj.CoreCompileInputs.cache
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.exe
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.xml
+C:\Igor\GitHub\ElevenLabs\obj\Debug\ElevenLabs.pdb
